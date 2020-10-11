@@ -20,7 +20,7 @@ from google.api_core.exceptions import InvalidArgument
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'gcloud_cred.json'
 
-DIALOGFLOW_PROJECT_ID = 'herbaltea-mn9r'
+DIALOGFLOW_PROJECT_ID = 'XXXX' #empty JSON file and project id for security purposes
 DIALOGFLOW_LANGUAGE_CODE = 'en'
 SESSION_ID = 'me'
 
